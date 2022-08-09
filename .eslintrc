@@ -17,6 +17,7 @@
   ],
   "rules": {
     "no-plusplus": "off",
+    "linebreak-style": 0,
     "no-console": "warn",
     "max-len": ["warn", { "code": 120 }],
     "indent": ["warn", 2, {
